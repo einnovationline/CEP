@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 function App() {
 
-  /****************Função CEP*/
+  /**************Função CEP*/
 
   const [endereco, setEndereco] = useState('')
 
