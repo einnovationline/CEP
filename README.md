@@ -1,33 +1,31 @@
-# Getting Started with Create React App
+# Project in React APP for learning - Address Search Project - Projeto em React APP para aprendizado - Projeto de Busca de Endereço
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+## Scripts
 In the project directory, you can run:
-
+No diretório do projeto, você pode executar:
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.: \ Execute o aplicativo no modo de desenvolvimento.:
+[http://localhost:3000]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.\ A página será recarregada quando você fizer alterações.\
+You may also see any lint errors in the console. \ Você também pode ver erros de lint no console.
 
 ### `npm test`
-
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o executor de teste no modo de observação interativo.\
+Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### `npm run build`
+Builds the app for production to the `build` folder.\ Crie o aplicativo para produção na pasta `build`.
+It correctly bundles React in production mode and optimizes the build for the best performance. \ Ele empacota corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The build is minified and the filenames include the hashes.\ A compilação é minificada e os nomes dos arquivos incluem os hashes.
+Your app is ready to be deployed!  Seu aplicativo está pronto para ser implantado!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\
+Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
 
 ### `npm run eject`
 
